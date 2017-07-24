@@ -1,0 +1,12 @@
+{
+  "name": "ssp-base-template",
+  "version": "1.0.0",
+  "description": "SSP Base Template",
+  "scripts": {
+    "start": "ssp start",
+    "build": "ssp build"
+  },
+  "dependencies": {
+    "preloader.js": "^1.0.0"
+  }
+}
