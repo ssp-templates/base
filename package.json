@@ -1,6 +1,6 @@
 {
   "name": "ssp-base-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SSP Base Template",
   "scripts": {
     "start": "ssp start",
